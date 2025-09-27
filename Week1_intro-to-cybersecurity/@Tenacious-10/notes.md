@@ -1,3 +1,6 @@
+# This file contains a comprehensive details of my note taken from both Cybersecurity 101 from TryHackMe and Introduction to Cybersecurity from Cisco
+
+
 # Introduction to Cybersecurity
 
 ## 🔐 Cybersecurity Resources
