@@ -1,0 +1,22 @@
+What transpired?
+
+In April 2024, the Nigerian fintech firm Flutterwave was reportedly the target of a ransomware / “cyber heist” attack, resulting in approximately USD 7 million being diverted by the attackers.
+Technology Times
+The perpetrators employed encryption and data exfiltration tactics (often associated with “double-extortion” ransomware), threatening to publish the data if the ransom was not met.
+
+Who was impacted?
+
+Flutterwave, being a major payments infrastructure provider in Nigeria and Africa, experienced a direct impact.
+Due to its role in financial transactions, numerous business clients and end-users may have encountered disruptions, loss of confidence, or financial vulnerability.
+
+How could this have been mitigated?
+
+Strong access controls & least privilege: Ensure that only necessary systems and personnel have access to sensitive systems, thereby limiting the potential impact if credentials are compromised.
+
+Frequent, offline, immutable backups: With effective backups, a ransomware attack's consequences are lessened, as data can be restored without ransom payment.
+
+Endpoint detection & response (EDR) + network monitoring: Early detection of anomalous activity (e.g., substantial data transfers) could facilitate containment before complete encryption occurs.
+
+Security hygiene & training: Phishing remains a prevalent vector; regular training and simulated phishing exercises can reduce the likelihood of compromise.
+
+Segmentation & network isolation: Dividing the network into isolated zones prevents an attacker who breaches one area from easily moving laterally to more critical segments.
