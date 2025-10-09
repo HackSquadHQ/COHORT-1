@@ -47,3 +47,39 @@ Incident response refers to a data breach or cyber attack and ways to quickly re
 Malware stands for malicious software. It aims to learn about some malware programs like trojan horse, virus, ransomware etc. Thers are two analysis techniques we use;
 1. Static analysis --- Inspecting the malicious programs without running it.
 2. Dynamic analysis --- works by running the malware in a controlled environment and monitoring its activities. 
+---
+---
+# Search Skills
+I learnt how to evaluate information sources, use search engine efficiently, I explored specialized search engines and made use of social media...
+There are some certain things to consider when evaluating information;
+1. Source ---- identifying the author or organization publishing the information
+2. Evidence and reasoning ---- check whether the claims are backed by credible evidence and logical reasoning.
+3. Objectivity and bias ---- evaluate the info. if presented impartially and rationally.
+4. Corroboration and consistency ---- validate the info from other reputable sources
+---
+## Search engines
+1. Google
+2. Bing
+3. DuckDuck Go
+
+There are some search operators supported by google, e.g
+> "e.p" it indicates you are looking for pages with the exact word or phrase
+
+> site: it lets you specify the domain name to which you want to limit your search
+
+> "-" the minus sign allows you to omit search results that contain a particular word or phrase
+
+> Filetype: indispensable for finding files instead of webpages. e.g Filetype: ppt cybersecurity
+
+We also have some specialized searcg engines...
+1. shodan ---- it allows me to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+2. Censys ---- focuses on internet-connected hosts, websites, certificates, and other internet assets.
+3. VirusTotal ---- it provides virus scanning service for files using multiple antivirus engines.
+4. HIBP [have i been pwned] ---- it tells you if an email address has appeared in a leaked data breach
+
+I also leant that when protecting an organization, i must ensure that the workers and employees are not oversharing personal and work informations on social media.
+
+---
+---
+# CISCO
+## INTRODUCTION TO CYBERSECURITY 
