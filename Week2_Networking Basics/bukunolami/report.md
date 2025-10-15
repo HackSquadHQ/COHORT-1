@@ -20,10 +20,12 @@ How many UDP connections were established?
 Answer : 83
 Find at least one HTTP Get request ?
 Answer : 5 Get request was discovered.
-
 What is the ip address of your laptop?
 192.168.56.1
 
 What is the most common protocol seen in the capture?
 Answer : TCP 
+
+
+
 
