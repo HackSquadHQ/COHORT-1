@@ -29,7 +29,7 @@ When assigning Ip address it is important to take note of some things. From the 
 
 The three numbers 192.168.1 must be the same for the Ip address and default gateway.
 
-Your default gateway may be these two common ones(192.168.1.1 or 192.168.1.254)
+Your default gateway may be these two common ones (192.168.1.1 or 192.168.1.254)
 
 The subnet mask 255.255.255.0 is standard on home networks.
 
