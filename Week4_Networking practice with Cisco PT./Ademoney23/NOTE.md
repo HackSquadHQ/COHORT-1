@@ -36,3 +36,20 @@ The subnet mask 255.255.255.0 is standard on home networks.
 # Automatic IP Address Assignment- DHCP
 
 On home networks this service is provided by the home router which has DHCP enabled by default.
+
+# 				DEVICE INTERCONNECTION/NETWORK TOPOLOGY
+Device interconnection or network is important inorder to share data, information and resources.Network topology is the arrangement of these devices inorder to share data, information and resources.
+
+## Common network topology includes:
+
+**Bus:** Alternatively called line topology, bus topology is a network setup where each computer and network device is connected to a single cable or backbone. The data transfer is bi-lateral, meaning data travels in both directions on the bus cable, ensuring devices can communicate irrespective of their position on the bus cable.
+
+**Ring:** A ring topology is a network configuration where device connections create a closed circular data path. Each networked device is connected to two others, like points that form a circle. Together, devices in a ring topology are called a ring network.
+Others include :
+
+Mesh
+
+Star
+
+Hybrid
+
