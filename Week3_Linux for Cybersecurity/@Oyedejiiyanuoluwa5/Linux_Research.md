@@ -1,4 +1,4 @@
-Mini Challenge
+# Mini Challenge
 
 # Why Linux is Essential for Cybersecurity Professionals
 
